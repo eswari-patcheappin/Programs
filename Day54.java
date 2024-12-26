@@ -35,7 +35,7 @@ public class Day54 {
         }
 if(set.isEmpty())
 {
-System.out.print("-1";
+System.out.print("-1");
 return ;
 }
         Collections.sort(set);
